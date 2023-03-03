@@ -1,6 +1,6 @@
-package CalculatorService;
+package calculator2.calculator2homeworkdemo.CalculatorService;
 
-import exception.DivisionByZeroException;
+import calculator2.calculator2homeworkdemo.exception.DivisionByZeroException;
 import org.springframework.stereotype.Service;
 
 @Service
